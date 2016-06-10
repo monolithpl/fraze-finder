@@ -10,7 +10,7 @@ Highlight collocations, chunks, idioms, phrasal verbs and semi-fixed lexical phr
 - responsive mobile-first layout
 
 ### demo
-[check it out here](http://monolithpl.github.io/multithesaurus/)
+[check it out here](http://monolithpl.github.io/fraze-finder/)
 
 ### further reading
 Read up on the usefulness of teaching chunks / collocations in EFL classrooms here:
