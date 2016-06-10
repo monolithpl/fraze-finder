@@ -5,8 +5,7 @@ Highlight collocations, chunks, idioms, phrasal verbs and semi-fixed lexical phr
 - highlights and lists chunks in a given text
 - very fast lookups using a slightly modified version of [Steve Hanov's succinct bit string trie implementation](http://www.hanovsolutions.com/trie/Bits.js)
 - fully client-side and portable - works offline, too!
-- zero framework rubbish - pure vanilla javascript with zero overhead
-- tiny code with zero external dependencies (no jquery or react = 15k !)
+- zero framework rubbish - pure vanilla javascript with zero overhead - tiny code with zero external dependencies
 - responsive mobile-first layout
 
 ### demo
