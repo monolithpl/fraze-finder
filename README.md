@@ -2,7 +2,7 @@
 Highlight collocations, chunks, idioms, phrasal verbs and semi-fixed lexical phrases in texts. Perfect for building collocation awareness in ESL students. Analyze your text for chunks [here](http://monolithpl.github.io/fraze-finder/)
 
 ### features
-- highlights chunks in a given text
+- highlights and lists chunks in a given text
 - very fast lookups using a slightly modified version of [Steve Hanov's succinct bit string trie implementation](http://www.hanovsolutions.com/trie/Bits.js)
 - fully client-side and portable - works offline, too!
 - zero framework rubbish - pure vanilla javascript with zero overhead
