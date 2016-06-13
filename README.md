@@ -24,4 +24,5 @@ Read more about performance-first string lookups in javascript using trie-s here
 - [John Resig's Revised JavaScript Dictionary Search](http://ejohn.org/blog/revised-javascript-dictionary-search/)
 
 MIT License
+
 Copyright 2016 Wiktor Jakubczyc
