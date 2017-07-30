@@ -1,5 +1,5 @@
 # fraze finder
-Highlight collocations, chunks, idioms, phrasal verbs and semi-fixed lexical phrases in texts. Perfect for building collocation awareness in ESL students. Analyze your text for chunks [here](http://monolithpl.github.io/fraze-finder/)
+Highlight collocations, chunks, idioms, phrasal verbs and semi-fixed lexical phrases in texts. Perfect for building collocation awareness in ESL students. Analyze your text [here](http://monolithpl.github.io/fraze-finder/)
 
 ### features
 - highlights and lists chunks in a given text
@@ -19,10 +19,10 @@ Read up on the usefulness of teaching chunks / collocations in EFL classrooms he
 - [Optimizing a Lexical Approach to Instructed Second Language Acquisition](http://www.victoria.ac.nz/lals/about/oldnews/attachments/VUW_seminar.ppt)
 
 ### implementation details
-Read more about performance-first string lookups in javascript using trie-s here:
+Read more about performance-first string lookups in javascript using tries here:
 - [Succinct Data Structures: Cramming 80,000 words into a Javascript file](http://stevehanov.ca/blog/index.php?id=120)
 - [John Resig's Revised JavaScript Dictionary Search](http://ejohn.org/blog/revised-javascript-dictionary-search/)
 
 MIT License
 
-Copyright 2016 Wiktor Jakubczyc
+Copyright 2016-7 Wiktor Jakubczyc
