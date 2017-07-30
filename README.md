@@ -22,6 +22,7 @@ Read up on the usefulness of teaching chunks / collocations in EFL classrooms he
 Read more about performance-first string lookups in javascript using tries here:
 - [Succinct Data Structures: Cramming 80,000 words into a Javascript file](http://stevehanov.ca/blog/index.php?id=120)
 - [John Resig's Revised JavaScript Dictionary Search](http://ejohn.org/blog/revised-javascript-dictionary-search/)
+- [Create optimized wordlist data structures for mobile webapps](https://www.united-coders.com/christian-harms/create-optimized-wordlist-data-structures-for-mobile-webapps/)
 
 MIT License
 
